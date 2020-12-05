@@ -3,6 +3,9 @@ Awesome Resources for Quantum Logic
 
 # History
 
+# Introduction
+
+- Wikipedia >> https://en.wikipedia.org/wiki/Quantum_logic
 
 # Research
 
